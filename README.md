@@ -30,7 +30,7 @@ Je travaille surtout avec **React ⚛️, Node.js, NestJS/ExpressJS et MongoDB �
 - Rêver d’un **manoir dans les Highlands** transformé en refuge à chiens
 - Jouer à **Magic: The Gathering** 
 - Marcher avec mes deux chiens et refaire le monde 
-- **FUCK le Brexit, je veux retourner vivre en Écosse** 🏴  
+- **FUCK le Brexit, je veux retourner vivre en Écosse** 🏴󠁧󠁢󠁳󠁣󠁴󠁿  
 
 ---
 
