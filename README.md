@@ -6,13 +6,13 @@
 
 ## En deux mots
 Je suis développeur web **freelance** ([disponible sur Malt](https://www.malt.fr/profile/clementcharles)), en chemin vers le **Software Craftsmanship** : écrire du code clair, maintenable et porteur de sens.  
-Je travaille surtout avec **React, Node.js, NestJS/ExpressJS et MongoDB 🍃**, mais je cherche toujours à affiner mes pratiques plus que ma liste de technos.  
+Je travaille surtout avec **React, Node.js, NestJS/ExpressJS et MongoDB**, mais je cherche toujours à affiner mes pratiques plus que ma liste de technos.  
 
 ---
 
 ## Ma trajectoire
 - Construire pas à pas une approche de **Clean Architecture** côté back et front  
-- Approfondir la **qualité logicielle** (tests, TDD, DDD, lisibilité) 🧪  
+- Approfondir la **qualité logicielle** (tests, TDD, DDD, lisibilité)  
 - Développer ma curiosité autour de **AdonisJS** et de la **3D avec Three.js**  
 - M’impliquer dans des projets où la technique sert un **impact concret** (environnement, bien-être animal)  
 
@@ -49,7 +49,7 @@ Je travaille surtout avec **React, Node.js, NestJS/ExpressJS et MongoDB 🍃**, 
 
 ## About me
 I’m a **freelance** web developer ([available on Malt](https://www.malt.fr/profile/clementcharles)), on the path to **Software Craftsmanship**: writing code that is clear, maintainable, and meaningful.  
-I mainly work with **React, Node.js, NestJS/ExpressJS and MongoDB 🍃**, but my focus is more on practices than on stacking tools.  
+I mainly work with **React, Node.js, NestJS/ExpressJS and MongoDB**, but my focus is more on practices than on stacking tools.  
 
 ---
 
